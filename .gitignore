@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Private dataset
+data/
+
+# Post-train model
+models/checkpoint/
+
+# IDE
+.idea/
