@@ -11,6 +11,7 @@ wheels/
 
 # Private dataset
 data/
+model/
 
 # Post-train model
 models/checkpoint/
